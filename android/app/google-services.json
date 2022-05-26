@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185270798762",
+    "firebase_url": "https://smartchair-41e3e-default-rtdb.firebaseio.com",
+    "project_id": "smartchair-41e3e",
+    "storage_bucket": "smartchair-41e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185270798762:android:fa97e797a9a133b10a43d3",
+        "android_client_info": {
+          "package_name": "cOm.smartchair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185270798762-bq5gqarirg1po50e4ppmkjgmbevtelp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8q8df9sG2QsvsvQfqzKd2TfAWjuvWsnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185270798762-bq5gqarirg1po50e4ppmkjgmbevtelp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
